@@ -15,4 +15,4 @@ https://avii004.github.io/pw.gen05/
 
 Graciela Navarro
 
-C:\Users\ginan\Desktop\New Password Generator\assets\images\pw.gen.photo.png
+![pw gen photo](https://user-images.githubusercontent.com/100546819/167001134-ee86b23b-4aef-4bef-849f-10996c8d5d9b.png)
