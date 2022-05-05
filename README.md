@@ -10,3 +10,8 @@ This is a simple comprehensive random password generator that can generate passw
 https://github.com/avii004/Password-Generator.js
 
 https://avii004.github.io/pw.gen05/
+
+## Contributers
+
+Graciela Navarro
+
