@@ -9,10 +9,10 @@ var numberArr = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
 
 function getPrompts() {
   passwordSelection = [];
-  passwordLength = parseInt(prompt("What character length do you want your password to have? You may have between 8 to 128 characters."));
+  passwordLength = parseInt(prompt("How long do you want your password to be? Minimum of 8 characters."));
 
   if (isNaN(passwordLength) || passwordLength < 8 || passwordLength > 100) {
-    alert("Make sure you typed a correct number between 8 and 128. Please try again.");
+    alert("Make sure you typed a correct number between 8 and 100. Please try again.");
     return false;
   }
   if (confirm("Would you like to include lowercase letters in your password?")) {
